@@ -1,15 +1,12 @@
 {
-  "tables/grid1.json": {
-    "savePath": "models/grid1"
+  "tables/grid2.json": {
+    "savePath": "models/grid2"
   },
   "pages/-N0l0FZ_ksKHh6Qt-i2Y.json": {
     "savePath": "tabs/-N0l0FZ_ksKHh6Qt-i2Y"
   },
   "widgets/-N0l0HYiDCVF3Jl6CWLW.json": {
     "savePath": "widgets/-N0l0HYiDCVF3Jl6CWLW"
-  },
-  "tables/grid2.json": {
-    "savePath": "models/grid2"
   },
   "tables/pages.json": {
     "savePath": "models/pages"

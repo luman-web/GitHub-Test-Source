@@ -1,5 +1,5 @@
 {
-  "cliSyncDisabled": false,
+  "cliSyncDisabled": true,
   "displayColumn": "name",
   "isReactive": true,
   "meta": {
