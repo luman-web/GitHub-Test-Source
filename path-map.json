@@ -8,17 +8,17 @@
   "widgets/-N0l0HYiDCVF3Jl6CWLW.json": {
     "savePath": "widgets/-N0l0HYiDCVF3Jl6CWLW"
   },
-  "tables/pages.json": {
-    "savePath": "models/pages"
-  },
   "tables/grid2.json": {
     "savePath": "models/grid2"
   },
-  "widgets/-N0odGctKwHqS4A1Zwq0.json": {
-    "savePath": "widgets/-N0odGctKwHqS4A1Zwq0"
+  "tables/pages.json": {
+    "savePath": "models/pages"
   },
   "pages/-N0odCyu1MQyYy9s8Xd6.json": {
     "savePath": "tabs/-N0odCyu1MQyYy9s8Xd6"
+  },
+  "widgets/-N0odGctKwHqS4A1Zwq0.json": {
+    "savePath": "widgets/-N0odGctKwHqS4A1Zwq0"
   },
   "widgetsData/dataGrid/grid1.json": {
     "savePath": "widgetsData/dataGrid/grid1",
